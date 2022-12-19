@@ -18,6 +18,7 @@ N Draenor Plans|QID|164501100|JUMP|BSM_WoD|S|N|Jump to Draenor Plans 1 - 100 gui
 N Legion Plans|QID|164601100|JUMP|BSM_LEG|S|N|Jump to Legion Plans 1 - 100 guide.|NOCACHE|
 N Battle for Azeroth Plans|QID|164701175|JUMP|BSM_BfA|S|N|Jump to Battle for Azeroth Plans 1 - 175 guide.|NOCACHE|
 N Shadowlands Plans|QID|164801100|JUMP|BSM_SL|S|N|Jump to Shadowlands Plans 1 - 100 guide.|NOCACHE|
+N Dragonflight Plans|QID|164901100|JUMP|BSM_DF|S|N|Jump to Dragonflight Plans 1 - 100 guide.|NOCACHE|
 N Make a choice|QID|164000000|N|Welcome to the Blacksmithing Hub, Please Select a Blacksmithing section to level.|
 
 ;N Guide Hub|QID|164000000|JUMP|BSM_GH|S!US|N|Jump to the Guide Hub.|NOCACHE| ; Line to go in each guide for HUB

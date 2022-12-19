@@ -18,6 +18,7 @@ N Draenor Plans|QID|165501100|JUMP|LTW_WoD|S|N|Jump to Draenor Plans 1 - 100 gui
 N Legion Plans|QID|165601100|JUMP|LTW_LEG|S|N|Jump to Legion Plans 1 - 100 guide.|NOCACHE|
 N Battle for Azeroth Plans|QID|165701175|JUMP|LTW_BfA|S|N|Jump to Battle for Azeroth Plans 1 - 175 guide.|NOCACHE|
 N Shadowlands Plans|QID|165801100|JUMP|LTW_SL|S|N|Jump to Shadowlands Plans 1 - 100 guide.|NOCACHE|
+N Dragonflight Plans|QID|165901100|JUMP|LTW_DF|S|N|Jump to Dragonflight Plans 1 - 100 guide.|NOCACHE|
 N Make a choice|QID|165000000|N|Welcome to the Leatherworking Hub, Please Select a Leatherworking section to level.|
 
 ;N Guide Hub|QID|165000000|JUMP|LTW_GH|S!US|N|Jump to the Guide Hub.|NOCACHE| ; Line to go in each guide for HUB

@@ -18,6 +18,7 @@ N Draenor Plans|QID|755501100|JUMP|JC_WoD|S|N|Jump to Draenor Plans 1 - 100 guid
 N Legion Plans|QID|755601100|JUMP|JC_LEG|S|N|Jump to Legion Plans 1 - 100 guide.|NOCACHE|
 N Battle for Azeroth Plans|QID|755701175|JUMP|JC_BfA|S|N|Jump to Battle for Azeroth Plans 1 - 175 guide.|NOCACHE|
 N Shadowlands Plans|QID|755801100|JUMP|JC_SL|S|N|Jump to Shadowlands Plans 1 - 100 guide.|NOCACHE|
+N Dragonflight Plans|QID|755901100|JUMP|JC_DF|S|N|Jump to Dragonflight Plans 1 - 100 guide.|NOCACHE|
 N Make a choice|QID|755000000|N|Welcome to the Jewelcrafting Hub, Please Select a Jewelcrafting section to level.|
 
 ;N Guide Hub|QID|755000000|JUMP|JC_GH|S!US|N|Jump to the Guide Hub.|NOCACHE| ; Line to go in each guide for HUB

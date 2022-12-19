@@ -18,6 +18,7 @@ N Draenor Plans|QID|773501100|JUMP|Scribe_WoD|S|N|Jump to Draenor Plans 1 - 100 
 N Legion Plans|QID|773601100|JUMP|Scribe_LEG|S|N|Jump to Legion Plans 1 - 100 guide.|NOCACHE|
 N Battle for Azeroth Plans|QID|773701175|JUMP|Scribe_BfA|S|N|Jump to Battle for Azeroth Plans 1 - 175 guide.|NOCACHE|
 N Shadowlands Plans|QID|773801100|JUMP|Scribe_SL|S|N|Jump to Shadowlands Plans 1 - 100 guide.|NOCACHE|
+N Dragonflight Plans|QID|773901100|JUMP|Scribe_DF|S|N|Jump to Dragonflight Plans 1 - 100 guide.|NOCACHE|
 N Make a choice|QID|773000000|N|Welcome to the Inscription Hub, Please Select a Inscription section to level.|
 
 ;N Guide Hub|QID|773000000|JUMP|Scribe_GH|S!US|N|Jump to the Guide Hub.|NOCACHE| ; Line to go in each guide for HUB

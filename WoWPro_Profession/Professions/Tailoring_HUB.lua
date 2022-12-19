@@ -18,6 +18,7 @@ N Draenor Plans|QID|197501100|JUMP|TLR_WoD|S|N|Jump to Draenor Plans 1 - 100 gui
 N Legion Plans|QID|197601100|JUMP|TLR_LEG|S|N|Jump to Legion Plans 1 - 100 guide.|NOCACHE|
 N Battle for Azeroth Plans|QID|197701175|JUMP|TLR_BfA|S|N|Jump to Battle for Azeroth Plans 1 - 175 guide.|NOCACHE|
 N Shadowlands Plans|QID|197801100|JUMP|TLR_SL|S|N|Jump to Shadowlands Plans 1 - 100 guide.|NOCACHE|
+N Dragonflight Plans|QID|197901100|JUMP|TLR_DF|S|N|Jump to Dragonflight Plans 1 - 100 guide.|NOCACHE|
 N Make a choice|QID|197000000|N|Welcome to the Tailoring Hub, Please Select a Tailoring section to level.|
 
 ; N Guide Hub|QID|197000000|JUMP|TLR_GH|S!US|N|Jump to the Guide Hub.|NOCACHE|	; line for each Guide

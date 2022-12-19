@@ -18,6 +18,7 @@ N Draenor Plans|QID|333501100|JUMP|ENCH_WoD|S|N|Jump to Draenor Plans 1 - 100 gu
 N Legion Plans|QID|333601100|JUMP|ENCH_LEG|S|N|Jump to Legion Plans 1 - 100 guide.|NOCACHE|
 N Battle for Azeroth Plans|QID|333701175|JUMP|ENCH_BfA|S|N|Jump to Battle for Azeroth Plans 1 - 175 guide.|NOCACHE|
 N Shadowlands Plans|QID|333801100|JUMP|ENCH_SL|S|N|Jump to Shadowlands Plans 1 - 100 guide.|NOCACHE|
+N Dragonflight Plans|QID|333901100|JUMP|ENCH_DF|S|N|Jump to Dragonflight Plans 1 - 100 guide.|NOCACHE|
 N Make a choice|QID|333000000|N|Welcome to the Enchanting Hub, Please Select a Enchanting section to level.|
 
 ;N Guide Hub|QID|333000000|JUMP|ENCH_GH|S!US|N|Jump to the Guide Hub.|NOCACHE| ; Line to go in each guide for HUB

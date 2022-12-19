@@ -18,6 +18,7 @@ N Draenor Plans|QID|171501100|JUMP|ALC_WoD|S|N|Jump to Draenor Plans 1 - 100 gui
 N Legion Plans|QID|171601100|JUMP|ALC_LEG|S|N|Jump to Legion Plans 1 - 100 guide.|NOCACHE|
 N Battle for Azeroth Plans|QID|171701175|JUMP|ALC_BfA|S|N|Jump to Battle for Azeroth Plans 1 - 175 guide.|NOCACHE|
 N Shadowlands Plans|QID|171801100|JUMP|ALC_SL|S|N|Jump to Shadowlands Plans 1 - 100 guide.|NOCACHE|
+N Dragonflight Plans|QID|171901100|JUMP|ALC_DF|S|N|Jump to Dragonflight Plans 1 - 100 guide.|NOCACHE|
 N Make a choice|QID|171000000|N|Welcome to the Alchemy Hub, Please Select a Alchemy section to level.|
 
 ;N Guide Hub|QID|171000000|JUMP|ALC_GH|S!US|N|Jump to the Guide Hub.|NOCACHE| ; Line to go in each guide for HUB

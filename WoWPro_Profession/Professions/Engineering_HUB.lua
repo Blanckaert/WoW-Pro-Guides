@@ -18,6 +18,7 @@ N Draenor Plans|QID|202501100|JUMP|ENG_WoD|S|N|Jump to Draenor Plans 1 - 100 gui
 N Legion Plans|QID|202601100|JUMP|ENG_LEG|S|N|Jump to Legion Plans 1 - 100 guide.|NOCACHE|
 N Battle for Azeroth Plans|QID|202701175|JUMP|ENG_BfA|S|N|Jump to Battle for Azeroth Plans 1 - 175 guide.|NOCACHE|
 N Shadowlands Plans|QID|202801100|JUMP|ENG_SL|S|N|Jump to Shadowlands Plans 1 - 100 guide.|NOCACHE|
+N Dragonflight Plans|QID|202901100|JUMP|ENG_DF|S|N|Jump to Dragonflight Plans 1 - 100 guide.|NOCACHE|
 N Make a choice|QID|202000000|N|Welcome to the Engineering Hub, Please Select a Engineering section to level.|
 
 ;N Guide Hub|QID|202000000|JUMP|ENG_GH|S!US|N|Jump to the Guide Hub.|NOCACHE| ; Line to go in each guide for HUB
