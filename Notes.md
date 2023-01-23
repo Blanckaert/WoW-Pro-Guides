@@ -1,3 +1,54 @@
+# Release 2023.01.18.A
+## Bug Fixes
+* Add new `POST_BC` version flag for Wrath and Retail.
+* Use new compat layer WoWPro.GetItemCooldown()
+* Update Compat functions for `POST_BC` changes for`C_GossipInfo` and `C_Container`
+* Add GetActiveQuests() and GetAvailableQuests() to the `POST_BC` list.
+
+## Known Bugs
+* Switching to the correct options pane/sub-pane is wonky
+* Frame size settings are not preserved across reloads
+
+## Guide Updates
+### Retail Leveling
+* Alliance: Tiragarde Sound
+* Horde: BFA War Campaign, Zuldazar
+* Neutral: Azure Span, DF Campaign, DF Intro, Ohnahran Plains, Thaldraszus, Waking Shores, Demon Hunter Intro, Bastion, Maw Intro
+* Exploration:  Highest Peaks
+### Classic
+* Neutral: Argent Tournament
+
+### WotLK
+* No Wrath guides were harmed during this release
+
+### Professions
+* No Professions guides were harmed during this release
+
+# Release 2023.01.12.A
+## Bug Fixes
+* No code changes this release
+
+## Known Bugs
+* Switching to the correct options pane/sub-pane is wonky
+* Frame size settings are not preserved across reloads
+
+## Guide Updates
+### Retail Leveling
+* Alliance: BFA War Campaign, Intro Exiles Reach,
+* Horde Leveling: BFA Endgame, Intro, Nazmir, Voldun, War Campaign, Zuldazar
+* Neutral: Azure Span, DF Campaign, DF Intro, Ohnahran Plains, Thaldraszus, Waking Shores, Demon Hunter Intro, Bastion, Maw Intro
+* World Events:  Winterveil
+### Classic
+* No Classic guides were harmed during this release
+
+### WotLK
+* Alliance: Alliance 19-25
+* Horde: Zangarmarsh, Borean Tundra
+
+### Professions
+* No Professions guides were harmed during this release
+
+
 # Release 2022.12.15.A
 ## Bug Fixes
 * Incomplete fix to moving window issue
